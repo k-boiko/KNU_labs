@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1481021963 source:c:\kate\learning\knu\programming\labs\lab8\main.cpp
+	<iostream>
+	"matrix.h"
+	"copyright.h"
+
+1480595980 c:\kate\learning\knu\programming\labs\lab8\matrix.h
+
+1480595971 c:\kate\learning\knu\programming\labs\lab8\copyright.h
+
+1481193290 source:c:\kate\learning\knu\programming\labs\lab8\matrix.cpp
+	<iostream>
+	"matrix.h"
+
+1490825253 source:c:\kate\learning\knu\programming\labs\finals\1 term\lab-8\main.cpp
+	<iostream>
+	"matrix.h"
+	"copyright.h"
+
+1490825233 c:\kate\learning\knu\programming\labs\finals\1 term\lab-8\matrix.h
+
+1490825266 c:\kate\learning\knu\programming\labs\finals\1 term\lab-8\copyright.h
+
+1490825000 source:c:\kate\learning\knu\programming\labs\finals\1 term\lab-8\matrix.cpp
+	<iostream>
+	"matrix.h"
+

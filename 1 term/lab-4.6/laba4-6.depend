@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1481806028 source:c:\kate\learning\knu\programming\labs\laba4-6\main.cpp
+	<iostream>
+	<locale.h>
+	"f.h"
+	"copyright.h"
+
+1478802642 c:\kate\learning\knu\programming\labs\laba4-6\f.h
+
+1478802788 c:\kate\learning\knu\programming\labs\laba4-6\copyright.h
+
+1481806015 source:c:\kate\learning\knu\programming\labs\laba4-6\f.cpp
+	<iostream>
+	"f.h"
+	<cmath>
+

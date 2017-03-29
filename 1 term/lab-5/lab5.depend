@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1481806281 source:c:\kate\learning\knu\programming\labs\lab5\main.cpp
+	<iostream>
+	"f.h"
+	"copyright.h"
+
+1476907940 c:\kate\learning\knu\programming\labs\lab5\h.h
+	<iostream>
+
+1481021318 c:\kate\learning\knu\programming\labs\lab5\declarations.h
+
+1481806179 source:c:\kate\learning\knu\programming\labs\lab5\descriptions.cpp
+	<iostream>
+	<exception>
+	<cmath>
+	"declarations.h"
+
+1480081765 c:\kate\learning\knu\programming\labs\lab5\copyright.h
+
+1481806272 source:c:\kate\learning\knu\programming\labs\lab5\f.cpp
+	<iostream>
+	<exception>
+	<cmath>
+	"f.h"
+
+1481806324 c:\kate\learning\knu\programming\labs\lab5\f.h
+
+1490805791 source:c:\kate\learning\knu\programming\labs\finals\1 term\lab-5\f.cpp
+	<iostream>
+	<exception>
+	<cmath>
+	"f.h"
+
+1490822668 c:\kate\learning\knu\programming\labs\finals\1 term\lab-5\f.h
+
+1490805104 source:c:\kate\learning\knu\programming\labs\finals\1 term\lab-5\main.cpp
+	<iostream>
+	"f.h"
+	"copyright.h"
+
+1490805107 c:\kate\learning\knu\programming\labs\finals\1 term\lab-5\copyright.h
+

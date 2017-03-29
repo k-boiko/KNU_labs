@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481788113 source:c:\kate\learning\knu\programming\labs\sl-lab-5\main.cpp
+	<iostream>
+	<exception>
+	<cmath>
+

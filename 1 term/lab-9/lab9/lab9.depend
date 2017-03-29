@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1481808371 source:c:\kate\learning\knu\programming\labs\lab9\main.cpp
+	<iostream>
+	"copyright.h"
+	"lab9.h"
+
+1481790452 c:\kate\learning\knu\programming\labs\lab9\lib.h
+
+1481798720 c:\kate\learning\knu\programming\labs\lab9\copyright.h
+
+1481789135 c:\kate\learning\knu\programming\labs\lab9\lab6.h
+
+1481808041 source:c:\kate\learning\knu\programming\labs\lab9\lab9.cpp
+	<iostream>
+	"lib.h"
+	"lab9.h"
+
+1481807998 c:\kate\learning\knu\programming\labs\lab9\lab9.h
+
