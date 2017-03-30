@@ -4,7 +4,7 @@
 #ifndef F_H_INCLUDED
 #define F_H_INCLUDED
 
-const int max_arr_sz = 100;
+const int max_arr_sz = 1000;
 
 /**
  * Функція для отримання від користувача даних для подальшої роботи программи та запису їх у массив
